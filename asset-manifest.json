@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/my1companion/robofriends/static/css/main.11abc938.chunk.css",
+    "main.js": "/my1companion/robofriends/static/js/main.e2155e41.chunk.js",
+    "main.js.map": "/my1companion/robofriends/static/js/main.e2155e41.chunk.js.map",
+    "runtime-main.js": "/my1companion/robofriends/static/js/runtime-main.7ed8a086.js",
+    "runtime-main.js.map": "/my1companion/robofriends/static/js/runtime-main.7ed8a086.js.map",
+    "static/css/2.6d7c7915.chunk.css": "/my1companion/robofriends/static/css/2.6d7c7915.chunk.css",
+    "static/js/2.f9f5aa27.chunk.js": "/my1companion/robofriends/static/js/2.f9f5aa27.chunk.js",
+    "static/js/2.f9f5aa27.chunk.js.map": "/my1companion/robofriends/static/js/2.f9f5aa27.chunk.js.map",
+    "index.html": "/my1companion/robofriends/index.html",
+    "static/css/2.6d7c7915.chunk.css.map": "/my1companion/robofriends/static/css/2.6d7c7915.chunk.css.map",
+    "static/css/main.11abc938.chunk.css.map": "/my1companion/robofriends/static/css/main.11abc938.chunk.css.map",
+    "static/js/2.f9f5aa27.chunk.js.LICENSE.txt": "/my1companion/robofriends/static/js/2.f9f5aa27.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/my1companion/robofriends/static/media/SEGA.47b4bfa9.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7ed8a086.js",
+    "static/css/2.6d7c7915.chunk.css",
+    "static/js/2.f9f5aa27.chunk.js",
+    "static/css/main.11abc938.chunk.css",
+    "static/js/main.e2155e41.chunk.js"
+  ]
+}
